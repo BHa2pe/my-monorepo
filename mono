@@ -1,0 +1,6 @@
+my-monorepo/
+├── project1/
+├── project2/
+├── project3/
+├── README.md
+└── .gitignore
